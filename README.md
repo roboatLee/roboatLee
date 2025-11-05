@@ -8,3 +8,7 @@
 # 我的github信息统计
 [![画面](https://github-readme-stats.vercel.app/api?username=robotLee)](https://github.com/anuraghazra/github-readme-stats)
 
+引用连接：https://github.com/anuraghazra/github-readme-stats
+
+# 我擅长的使用的语言
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
